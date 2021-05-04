@@ -1,6 +1,6 @@
 # Standard-Library-Golang
 
-__GO STANDARD LIBRARY__
+__GO STANDARD LIBRARY - IO__
 
 **io.TeeReader**
 
